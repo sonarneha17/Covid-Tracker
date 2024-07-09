@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Covid-Tracker
+  annotations:
+    github.com/project-slug: sonarneha17/Covid-Tracker
+spec:
+  type: other
+  lifecycle: unknown
+  owner: neha
