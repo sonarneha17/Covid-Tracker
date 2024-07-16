@@ -4,6 +4,7 @@ metadata:
   name: Covid-Tracker
   annotations:
     github.com/project-slug: sonarneha17/Covid-Tracker
+    backstage.io/managed-by-location: url:https://github.com/sonarneha17/Covid-Tracker/blob/main/catalog-info.yaml
 spec:
   type: service
   lifecycle: experimental
